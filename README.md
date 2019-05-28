@@ -13,5 +13,6 @@ This repo is a catalog of Tech events that have held across the country since 20
 * Event Type
 * Venue
 * Description
+* Highlight Attendees
 * Files
 * Media

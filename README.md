@@ -9,6 +9,7 @@ This repo is a catalog of Tech events that have held across the country since 20
 ### Format for posting events
 * Title
 * Date it held
+* Venue
 * Description
 * Files
 * Media

@@ -5,7 +5,7 @@
 
 ### Ecosystem Meetup
 
-**Event Deescription:** Attracting and finding the right tech talent to bolster your team’s capabilities is a herculean task in light of the gaping disconnect between graduates from Nigerian universities, polytechnics and technical/ design schools and the reality of the work that we need them to do.
+**Event Description:** Attracting and finding the right tech talent to bolster your team’s capabilities is a herculean task in light of the gaping disconnect between graduates from Nigerian universities, polytechnics and technical/ design schools and the reality of the work that we need them to do.
 
 
 
